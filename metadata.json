@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Thumbnail Generator",
+  "description": "Generate stunning YouTube thumbnails for your videos (16:9) or Shorts (9:16) with AI. Simply describe your ideal thumbnail, and let the AI bring it to life.",
+  "requestFramePermissions": []
+}
